@@ -1,0 +1,15 @@
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\af022\Documents\Repos\DotNetTutorial\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
